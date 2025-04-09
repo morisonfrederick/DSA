@@ -53,7 +53,6 @@ DSA/
 │   ├── CIRCULAR_DOUBLY_LINKED_LIST/
 │   │   ├── circularDoublyLinkedList.js
 │   │   └── circularDoubly.test.js
-│   │  
 │   ├── CIRCULAR_SINGLY_LINKED_LIST/
 │   │   ├── circularSinglyLinkedList.js
 │   │   └── circularSingly.test.js
