@@ -48,19 +48,21 @@ npm run test
 ## 📁 Project Structure
 
 ```bash
-dsa-repo/
-├── src/
-│   ├── structures/
-│   │   ├── singlyLinkedList.ts
-│   │   ├── circularSinglyLinkedList.ts
-│   │   └── ...
-│   └── algorithms/
-│       ├── bubbleSort.ts
-│       └── ...
-├── tests/
-│   ├── structures/
-│   │   └── circularSinglyLinkedList.test.ts
-│   └── ...
+DSA/
+├── LINKED_LIST/
+│   ├── CIRCULAR_DOUBLY_LINKED_LIST/
+│   │   ├── circularDoublyLinkedList.js
+│   │   └── circularDoubly.test.js
+│   │  
+│   ├── CIRCULAR_SINGLY_LINKED_LIST/
+│   │   ├── circularSinglyLinkedList.js
+│   │   └── circularSingly.test.js
+│   ├── DOUBLY_LINKED_LIST/
+│   │    ├── doublyLinkedList.js
+│   │    └── doubly.test.js
+│   └── SINGLY_LINKED_LIST/
+│   │    ├── singlyLinkedList.js
+│   │    └── singly.test.js
 ├── package.json
 └── README.md
 ```
