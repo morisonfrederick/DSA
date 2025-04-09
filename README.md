@@ -1,6 +1,6 @@
 # 📚 Data Structures & Algorithms in JavaScript 
 
-Welcome to my DSA repository! This is a personal collection of data structures and algorithms implemented using JavaScript and TypeScript. The goal of this project is to improve problem-solving skills and deepen understanding of core computer science concepts.
+Welcome to my DSA repository! This is a personal collection of data structures and algorithms implemented using JavaScript. The goal of this project is to improve problem-solving skills and deepen understanding of core computer science concepts.
 
 ---
 
