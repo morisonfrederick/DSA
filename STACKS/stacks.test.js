@@ -29,13 +29,14 @@ describe("stacks -- pop data", () => {
   test("should return false when the stack is empty", () => {
     expect(stack.pop()).toBe(false);
   });
-  test("should remove the last item and point the head to the second last node", () => {
+  test("should remove and return  the last item and point the head to the second last node", () => {
     stack.push(10);
     stack.push(20);
     stack.push(30);
     stack.push(40);
     stack.pop();
     expect(stack.head.data).toBe(30);
+    expect(stack.pop()).toBe(30);
   });
   test("should return null for the head  if the last node is removed", () => {
     stack.push(10);

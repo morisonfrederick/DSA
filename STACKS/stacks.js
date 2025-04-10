@@ -31,8 +31,10 @@ export class Stacks {
     if (this.length == 0) {
       return false;
     }
+    let poppedNode = this.head;
     this.head = this.head.next;
     this.length--;
+    return poppedNode.data;
   }
   //peek
   peek(data) {
