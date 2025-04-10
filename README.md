@@ -13,7 +13,7 @@ This repository includes implementations and test cases for:
   - Singly Linked List
   - Doubly Linked List
   - Circular Singly Linked List
-- Stacks(Coming soon)
+- Stacks
 - Queues(Coming soon)
 - Trees(Coming soon)
   - Binary Search Tree (BST)
@@ -60,8 +60,11 @@ DSA/
 │   │    ├── doublyLinkedList.js
 │   │    └── doubly.test.js
 │   └── SINGLY_LINKED_LIST/
-│   │    ├── singlyLinkedList.js
-│   │    └── singly.test.js
+│        ├── singlyLinkedList.js
+│        └── singly.test.js
+├──STACKS/
+│   ├── stacks.js
+│   └── stacks.test.js
 ├── package.json
 └── README.md
 ```
@@ -74,7 +77,7 @@ Practice clean, testable code.
 Prepare for technical interviews.
 
 ## 🛠️ Tech Stack
-Language: TypeScript / JavaScript
+Language: JavaScript
 
 Testing: Vitest
 
