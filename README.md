@@ -65,6 +65,9 @@ DSA/
 ├──STACKS/
 │   ├── stacks.js
 │   └── stacks.test.js
+├──QUEUES/
+│   ├── queue.js
+│   └── queue.test.js
 ├── package.json
 └── README.md
 ```
