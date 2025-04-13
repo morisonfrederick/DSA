@@ -14,11 +14,12 @@ This repository includes implementations and test cases for:
   - Doubly Linked List
   - Circular Singly Linked List
 - Stacks
-- Queues(Coming soon)
+- Queues
+- Hash Tables
 - Trees(Coming soon)
   - Binary Search Tree (BST)
 - Graphs (Coming soon)
-- Hash Tables (Coming soon)
+
 
 ### ⚙️ Algorithms
 - Sorting Algorithms(Coming soon)
